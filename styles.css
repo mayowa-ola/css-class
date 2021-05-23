@@ -1,0 +1,187 @@
+body {
+    /* rem em px pt % */
+    /* margin-left: 300px;
+    margin-right: 300px; */
+    margin: 50px 300px 0px 300px ;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+
+h1 {
+    color: #333333;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.button-sleek {
+    color: #339999;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #339999;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.button-blue {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #679FD3;
+    border-radius: 5px;
+    border: 1px solid #339999;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.button-sleek:hover {
+    color: #D2792E;
+    border-color: #D2792E;
+    transition: all 1
+}
+
+.nav-button {
+    float: right;
+    margin-top: 30px;
+}
+
+.tale-color {
+    color:#339999;
+}
+
+.navbar {
+    border-bottom: 1px solid #339999;
+    padding-bottom: 10px;
+}
+
+.reduce-width {
+    width: 800px;
+}
+
+.center {
+    text-align: center;
+}
+
+.cards-layout {
+    display: flex;
+    flex-direction: row;
+}
+
+.text-blue {
+    color:#679FD3
+}
+
+a {
+    text-decoration: none;
+    color :#679FD3
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    display:flex;
+    justify-content: space-between;
+}
+
+.freestyle {
+    color: #679FD3;
+}
+
+.button-facebook{
+    color: #ffffff;
+    padding: 10px;
+    background-color: #4267B2;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.button-facebook:hover{
+    height:25px;
+    transition: 0.5s ease;
+}
+
+.button-twitter{
+    color: #ffffff;
+    padding: 10px;
+    background-color: rgb(85,171,237);
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.button-email{
+    color: #ffffff;
+    padding: 10px;
+    background-color: #7D7D7D;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+.button-pin{
+    color: #ffffff;
+    padding: 10px;
+    background-color: #CB2127;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.button-share{
+    color: #ffffff;
+    padding: 10px;
+    background-color: #95D039;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.button-message{
+    color: #ffffff;
+    padding: 10px;
+    background-color: #4589FF;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    border:none;
+    width:120px;
+    height:30px;
+}
+
+.pr {
+    padding-right: 20px;
+}
+
